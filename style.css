@@ -1,0 +1,98 @@
+body{
+    background:#000000;
+}
+.h1{
+       color: rgba(30, 255, 0, 0.938);
+    text-shadow: 0px 0px 5px rgb(39, 223, 22);
+    
+}
+.design{
+     color: rgb(0, 0, 0); 
+     background-color:white ;               
+  text-decoration: none;         
+  font-weight: bold;
+  font-family: 'JetBrains Mono', monospace;
+  
+  
+}
+.header{
+    margin-bottom:10px ;
+    border-bottom: 3px solid white;
+    padding-bottom:10px ;
+}
+
+#About{
+    color:white;
+    background-color:#222222;
+
+    margin-left: auto;
+    margin-right: auto;
+    border-left:5px solid white;
+    padding:25px;
+    line-height: 1.4em;
+ 
+
+}
+
+
+.abt{
+    color: rgba(30, 255, 0, 0.938);
+    text-shadow: 0px 0px 5px rgb(39, 223, 22);
+    
+}
+
+#project{
+    color:white;
+    background-color:#222222;
+    margin-left: auto;
+    margin-right: auto;
+    border-left:5px solid white;
+    padding: 25px;
+    margin-top: 10px;
+    line-height: 1.4em;
+}
+.shining{
+      color: rgba(30, 255, 0, 0.938);
+    text-shadow: 0px 0px 5px rgb(39, 223, 22);
+    
+}
+.video1{
+    border: 2px solid rgb(0, 0, 0);
+    box-shadow: 0px 0px 10px rgb(255, 255, 255);
+    margin-left: auto;
+    margin-right: auto;
+    display:block;
+}
+
+#Contact{ 
+    color:white;
+    background-color:#1f1e20;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:8px ;
+    border-left:5px solid white;
+    padding: 25px;   
+}
+
+.insta_link{
+    height: 60px;
+}
+.discord_link{
+    height: 50px;
+    border: 1px solid blue;
+    border-radius: 10px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+footer{
+    display: flex;
+    text-align: center;
+    padding:40px 20px;
+    background-color:#0a0a0a;
+    color:#888;
+    border-top: 3px solid #ffffff;
+    margin-top: 8px;
+    height: 25px;
+    padding-bottom: 30pxpx;
+}
