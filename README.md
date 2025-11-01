@@ -17,7 +17,7 @@ My portfolio includes 3 main sections:
   🔗 [View My Projects](https://hack-legend-hamid.github.io/Portfolio/#project)
 - ✉️ **Contact** – Easy ways to reach me (Discord, Instagram, and more).  
 
-This is just the **beginning** — my next version of the portfolio will be coming on **1st November 2029**, with even more features and projects ⚡  
+This is just the **beginning** my next version of the portfolio will be coming on **1st November 2029**, with even more features and projects ⚡  
 
 ---
 
